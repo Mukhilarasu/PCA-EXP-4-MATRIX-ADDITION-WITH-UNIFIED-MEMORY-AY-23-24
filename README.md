@@ -572,4 +572,4 @@ unifmem2.cu
 
 
 ## RESULT:
-Thus the program has been executed by using unified memory. It is observed that removing memset function has given 0.015638 sec less time compare to with memset.Gpu computation on with memset is 0.080341 sec, where in without memset the GPU computation is 0.064703 sec.
+Thus, the program has been executed using unified memory. It is observed that removing the memset function reduced the execution time by 0.03522 seconds.
